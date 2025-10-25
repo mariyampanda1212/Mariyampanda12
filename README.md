@@ -1,4 +1,4 @@
-# Mariyampanda
+# Mariyam12
 CSE - 21 
 This is my first Git Repository
 <br>
